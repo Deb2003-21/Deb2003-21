@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Deb2003-21
-- 👀 I’m interested in machine learning,deep learning,Gen-AI
+- 👋 Hi, I’m Debkrishna Hatua 
+- 👀 I’m interested in web development,machine learning,deep learning.
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me [ email= debkrishnahatua21@gmail.com ]
 - 😄 Pronouns: he/ him
