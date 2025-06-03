@@ -30,7 +30,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
-
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=fff&style=flat)
 ---
 
 ## 📈 GitHub Stats
