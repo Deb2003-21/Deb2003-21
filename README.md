@@ -53,7 +53,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff&style=flat)](www.linkedin.com/in/debkrishna-hatua-941081310)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=flat)](mailto:debkrishnahatua21@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/debkrishna03)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat)](https://instagram.com/debkrishna03)
 ---
 
 ## ⚡ Fun Facts
